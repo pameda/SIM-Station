@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+output/
+outputs/
+tmp/
+*.app
+*.zip
+*.dSYM
+dist/
+artifacts/
+*.dmg
